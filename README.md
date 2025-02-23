@@ -1,5 +1,14 @@
 # AtliQ-Hardware-On-Demand-Data-Insights
 
+## 📈Introduction to AtliQ Hardware: 
+- A growing company dealing with hardware products. Faced 
+challenges in handling large volumes of data manually. 
+- Initially, AtliQ used spreadsheets and manual records, which became inefficient as data volume increased.
+ Issues like redundancy, inconsistency, and difficulty in retrieving data,highlighted the need for a structured database.
+## 🎯Transition to Databases: 
+ - The company adopted a relational database system to streamline data storage and retrieval
+ - SQL became the primary tool for managing and analysing their data.
+ - 
 ## 📊 Key Business Insights
 - **Market Performance Analysis:** Identifies top markets based on net sales.
 - **Product Performance:** Analyzes sales of different products across divisions.
