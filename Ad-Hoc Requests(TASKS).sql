@@ -63,7 +63,7 @@ END;
 /*Determine Market Badge Based on Sales Quantity
 
 Created a stored procedure that can determine the market badge based on the following logic:
-If total sold quantity > 5 million, that market is considered Gold, else it is Silver.
+If total sold quantity > 5 million, that market is considered Gold, else it is Silver.*/
 
 #Get market badge
 
