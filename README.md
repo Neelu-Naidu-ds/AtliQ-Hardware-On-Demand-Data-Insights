@@ -22,3 +22,5 @@ challenges in handling large volumes of data manually.
 - **Common Table Expressions (CTEs)**
 - **Window Functions** (RANK(), DENSE_RANK(), ROW_NUMBER())
 - **Stored Procedures**
+
+## Here are some of the Ad-Hoc requests that have been solved [Ad-Hoc requests](https://github.com/Neelu-Naidu-ds/AtliQ-Hardware-On-Demand-Data-Insights/blob/main/Ad-Hoc%20Requests(TASKS).sql)
